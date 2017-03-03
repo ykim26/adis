@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /adis
+exclude: ['README.md']
